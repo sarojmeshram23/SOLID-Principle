@@ -4,3 +4,12 @@ These principles provide multiple ways to remove the tightly coupled code betwee
 
 The SOLID Design Principles are used to manage most of the Software Design Problems we, as developers, generally encounter in our day-to-day programming. These design principles are tested and proven mechanisms to make software designs more understandable, flexible, and maintainable. As a result, if we follow these principles while designing our applications, we can develop better applications.
 
+SOLID Design Principles represent five Design Principles used to make software designs more understandable, flexible, and maintainable. The Five SOLID Design Principles are as follows:
+
+S stands for the Single Responsibility Principle, also known as SRP. This Principle states that each software module or class should have only one reason to change. In other words, each module or class should have only one responsibility.
+O stands for the Open-Closed Principle, also known as OSP. The Open-Closed Principle states that software entities, such as modules, classes, functions, etc., should be open for extension but closed for modification.
+L stands for the Liskov Substitution Principle, also known as LSP. This Principle states that the object of a derived class should be able to replace an object of the base class without causing any errors in the system or modifying the behavior of the base class. That means the child class objects should be able to replace parent class objects without changing the correctness or behavior of the program.
+I stand for the Interface Segregation Principle, also known as ISP. This Principle states that Clients should not be forced to implement any methods they don’t use. Rather than one fat interface, numerous little interfaces are preferred based on groups of methods, with each interface serving one submodule.
+D stands for Dependency Inversion Principle, also known as DIP. This Principle states that high-level modules/classes should not depend on low-level modules/classes. Both should depend upon abstractions. Secondly, abstractions should not depend upon details. Details should depend upon abstractions.
+
+
