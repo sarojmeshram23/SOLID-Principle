@@ -2,3 +2,5 @@ The SOLID Design Principles in C# help us solve most software design problems.
 
 These principles provide multiple ways to remove the tightly coupled code between the software components (between classes),making the software designs more understandable, flexible, and maintainable
 
+The SOLID Design Principles are used to manage most of the Software Design Problems we, as developers, generally encounter in our day-to-day programming. These design principles are tested and proven mechanisms to make software designs more understandable, flexible, and maintainable. As a result, if we follow these principles while designing our applications, we can develop better applications.
+
